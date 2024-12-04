@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZenKnight07
 - 👀 I’m interested in reading books, programming, and DIY stuffs
-- 🌱 I’m currently learning C Programming Language
+- 🌱 I’m use mostly Python Programming Language
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him strictly!
 - ⚡ Fun fact: 🫵👉❌🦸‍♂️
