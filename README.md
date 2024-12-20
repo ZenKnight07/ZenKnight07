@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZenKnight07
 - 👀 I’m interested in reading books, programming, and DIY stuffs
-- 🌱 I use Python
+- 🐍 I use Python
 - 📫 How to reach me ... 😉
 - 😄 Pronouns: he/him strictly!
 - ⚡ Fun fact: 🫵👉❌🦸‍♂️
