@@ -1,10 +1,21 @@
-## 👨‍🎤 About Me
-- 👋 Hi, I’m @ZenKnight07
-- 👀 I’m interested in reading books, programming, and DIY stuffs
-- 🐍 I use Python
-- 📫 How to reach me ... 😉
-- 😄 Pronouns: he/him strictly!
-- ⚡ Fun fact: 🫵👉❌🦸‍♂️
+# 👋 Hello, I'm @ZenKnight07  
+
+## 🌟 About Me  
+- 👀 I’m passionate about **reading books**, **programming**, and experimenting with **DIY projects**.  
+- 🐍 I love coding in **Python**, and I’m always exploring new technologies.  
+- 😄 Pronouns: **he/him** (strictly!)  
+- ⚡ Fun Fact: **🫵👉❌🦸‍♂️** – Figure that one out!  
+
+## 💻 What I Do  
+- 🌱 Currently learning new frameworks and sharpening my programming skills.  
+- 🔨 Building exciting projects and writing code.  
+- 📖 Constantly diving into books to fuel my curiosity and creativity.  
+
+## 🛠 Tech Stack  
+- 🐍 Python  
+- 💾 Git & GitHub  
+- 💡 Always open to learning more!  
+
 
 <!---
 ZenKnight07/ZenKnight07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
