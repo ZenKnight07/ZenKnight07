@@ -3,6 +3,8 @@
 ## 🌟 About Me  
 - 👀 I’m passionate about **reading books**, **programming**, and experimenting with **DIY projects**.  
 - 🐍 I love coding in **Python**, and I’m always exploring new technologies.  
+- 🎨 Hobbies: I enjoy **sketching**, **eating**, watching **movies**, and **playing video games**.  
+- 🇳🇵 I live in **Nepal**, and I’m inspired by its natural beauty and rich culture.  
 - 😄 Pronouns: **he/him** (strictly!)  
 - ⚡ Fun Fact: **🫵👉❌🦸‍♂️** – Figure that one out!  
 
