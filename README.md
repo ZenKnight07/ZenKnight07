@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZenKnight07
+- 👋 Hi, I’m ```bash @ZenKnight07
 - 👀 I’m interested in reading books, programming, and DIY stuffs
 - 🐍 I use Python
 - 📫 How to reach me ... 😉
