@@ -19,6 +19,9 @@
 - 🛢️ PostgreSQL  
 - ⚙️ Git & GitHub for version control  
 
+## 🏆 Goals for 2024  
+- 🚀 Build a personal project that solves a meaningful problem.  
+
 <!---
 ZenKnight07/ZenKnight07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
