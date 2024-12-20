@@ -19,7 +19,7 @@
 - 🛢️ PostgreSQL  
 - ⚙️ Git & GitHub for version control  
 
-## 🏆 Goals for 2024  
+## 🏆 Goals   
 - 🚀 Build a personal project that solves a meaningful problem.  
 
 <!---
