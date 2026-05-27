@@ -2,7 +2,7 @@
 
 ## 🌟 About Me  
 - 👀 I love **reading books**, **programming**, and experimenting with **DIY projects**.  
-- 🐍 I love coding in **C**, and I’m always exploring new technologies.  
+- 👨‍💻 I love coding in **C**, and I’m always exploring new technologies.  
 - 🎨 Hobbies: I enjoy **sketching**, **eating**, **cooking**, watching **movies**, and playing **video games**.   
 - 😄 Pronouns: **he/him/his** (strictly!)  
 - ⚡ Fun Fact: **🫵👉❌🦸‍♂️** – Figure that one out!  
