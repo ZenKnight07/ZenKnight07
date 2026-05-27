@@ -13,7 +13,7 @@
 - 📖 Constantly diving into books to fuel my curiosity and creativity.  
 
 ## 🛠 Tech Stack  
-- 🐍 Python  
+- 👨‍💻 C Programming Language 
 - 🖥 HTML, CSS, and JavaScript  
 - 🛢️ PostgreSQL  
 - ⚙️ Git & GitHub for version control  
